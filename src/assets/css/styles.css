@@ -1,0 +1,13 @@
+.cover-title {
+    top: 8rem;
+}
+
+.big-card {
+    min-width: 250px;
+    min-height: 250px; 
+}
+
+.small-card {
+    min-width: 250px;
+    min-height: 200px; 
+}
